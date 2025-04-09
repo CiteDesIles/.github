@@ -2,7 +2,5 @@
 
 ## Bievenue sur notre organization
 
-Le code sera rendu publique **après l'évènement**
-
-Date: XX/XX
+Date: 18.04
 Trailer: X
